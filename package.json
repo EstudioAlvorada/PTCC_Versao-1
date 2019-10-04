@@ -1,0 +1,20 @@
+{
+  "name": "PTCC_Versao-1",
+  "version": "1.0.0",
+  "description": "Tema: Desenvolvimento de um jogo 2D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstudioAlvorada/PTCC_Versao-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstudioAlvorada/PTCC_Versao-1/issues"
+  },
+  "homepage": "https://github.com/EstudioAlvorada/PTCC_Versao-1#readme"
+}
