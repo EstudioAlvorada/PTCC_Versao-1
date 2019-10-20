@@ -22,3 +22,7 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 <h2>Foi sim<h2>
 
 <!-- teste comentario -->
+
+<!-- 
+20.10.2019 = Renan -> TESTE 
+-->
