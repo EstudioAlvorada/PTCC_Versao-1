@@ -23,6 +23,12 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
 <!-- teste comentario -->
 
-<!-- 
-20.10.2019 = Renan -> TESTE 
+<!--
+20.10.2019 = Renan -> TESTE
 -->
+
+<!--
+20.10.2019 = Renan -> TESTE GitPod
+-->
+
+VIADO
