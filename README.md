@@ -36,3 +36,5 @@ VIADO
 Achou que não ia dar certo né troxa
 
 Yay みんなさん おやすみなさい。
+
+Qualquer coisa
